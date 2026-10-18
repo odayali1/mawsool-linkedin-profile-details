@@ -6,7 +6,7 @@ Get the current role, about section, location, education, certifications, course
 
 ## Check the company and headline before you pay for the full profile
 
-[Profile Freshness Check](https://apify.com/oday/mawsool-linkedin-profile-freshness) returns the current company and headline, starting from $0.30 per 1,000. It does not decide whether they match your CRM. Compare the two fields yourself, then run this scraper only on the rows you want to refresh.
+[Profile Freshness Check](https://apify.com/oday/mawsool-linkedin-profile-freshness) returns the current company and headline, starting from $0.40 per 1,000. It does not decide whether they match your CRM. Compare the two fields yourself, then run this scraper only on the rows you want to refresh.
 
 At Diamond prices, 10,000 full profiles cost $8. Checking all 10,000 first costs $3. If 1,500 of them need this scraper at $0.80 per 1,000, the refresh is $4.20 instead of $8.
 
