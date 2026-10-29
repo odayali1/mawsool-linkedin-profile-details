@@ -4,6 +4,8 @@
 
 Get the current role, about section, location, education, certifications, courses, publications, patents, organizations, activity, followers, connections, and every field returned by the source API.
 
+If the URL is stale or broken, run [Fix Broken LinkedIn URLs](https://apify.com/oday/mawsool-fix-broken-linkedin-urls) first. That lookup is live and returns the current link, headline, company, title, and experience. No match, no charge. Use this scraper when the URL already opens.
+
 ## Check the company and headline before you pay for the full profile
 
 [Profile Freshness Check](https://apify.com/oday/mawsool-linkedin-profile-freshness) returns the current company and headline, starting from $0.40 per 1,000. It does not decide whether they match your CRM. Compare the two fields yourself, then run this scraper only on the rows you want to refresh.
@@ -15,6 +17,7 @@ At these prices, 10,000 full profiles cost $8. Checking all 10,000 first costs $
 
 | If this is what you need | Open |
 | --- | --- |
+| Your LinkedIn URLs are old, stale, or no longer open. | [Fix Broken LinkedIn URLs](https://apify.com/oday/mawsool-fix-broken-linkedin-urls) |
 | You have an email and want the LinkedIn profile. | [Reverse Email Lookup](https://apify.com/oday/mawsool-email-linkedin-lookup) |
 | You have a name and company and want the profile URL. | [LinkedIn Profile Finder](https://apify.com/oday/mawsool-linkedin-profile-finder) |
 | You have a profile URL and want the personal email. | [LinkedIn Email Finder](https://apify.com/oday/mawsool-linkedin-personal-email-finder) |

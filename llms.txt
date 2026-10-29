@@ -1,0 +1,26 @@
+# LinkedIn Profile Scraper
+
+> Send a LinkedIn profile URL that already opens. You get the role, about, location, education, certifications, and activity in one row.
+
+Mawsool publishes this as an Apify Actor. Starting from $0.80 per 1,000 profiles.
+
+## Run
+
+- Apify Actor: https://apify.com/oday/mawsool-linkedin-profile-details
+- Call: `oday/mawsool-linkedin-profile-details`
+- API key: https://mawsool.tech/ and https://docs.mawsool.tech/
+- Contact: osama@mawsool.tech, info@mawsool.tech
+
+## Use it when
+
+You already decided this profile is worth the full record.
+
+## Use something else when
+
+You only need the current company and headline. Use Profile Freshness Check at $0.40 per 1,000, then scrape the rows you choose. The URL does not open. Use Fix Broken LinkedIn URLs first.
+
+## Page
+
+- Scrape a LinkedIn profile from a URL you already have: docs/linkedin-profile-scraper-by-url.md
+
+Mawsool is not affiliated with LinkedIn.
